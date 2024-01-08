@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nyi Nyi Lin
-- 👀 I’m interested in Networking
+- 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me www.linkedin.com/in/nyi-nyi-lin-44329924b
